@@ -1,0 +1,7 @@
+[submodule "ross/themes/aerial"]
+	path = ross/themes/aerial
+	url = https://github.com/sethmacleod/aerial.git
+[submodule "ross/public"]
+	path = ross/public
+	url = https://github.com/ross-larson/ross-larson.github.io.git
+	branch = master
