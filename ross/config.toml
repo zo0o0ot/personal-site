@@ -1,11 +1,11 @@
 languageCode = "en-us"
 title = "Aerial"
-baseurl = "http://example.org/"
+baseurl = "https://ross-larson.github.io/"
 theme = "aerial"
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
+  name = "Ross Larson"
+  about = "Software Developer &nbsp;&bull;&nbsp; Speaker &nbsp;&bull;&nbsp; Human Being"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
@@ -14,24 +14,24 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/rosslarsonWI"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Medium"
+  icon = "medium"
+  link = "https://medium.com/@rosslarsonWI"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/zo0o0ot/"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/rosslarson/"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:hello@rosslarson.com"
