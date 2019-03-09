@@ -6,32 +6,42 @@ theme = "aerial"
 [params]
   name = "Ross Larson"
   about = "Software Developer &nbsp;&bull;&nbsp; Speaker &nbsp;&bull;&nbsp; Human Being"
-  copyright = "Untitled"
+  copyright = "None"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
 
 [[params.social]]
   medium = "Twitter"
-  icon = "twitter"
+  icon = "fab fa-twitter"
   link = "https://twitter.com/rosslarsonWI"
 
 [[params.social]]
   medium = "Medium"
-  icon = "medium"
+  icon = "fab fa-medium"
   link = "https://medium.com/@rosslarsonWI"
 
 [[params.social]]
   medium = "Github"
-  icon = "github"
+  icon = "fab fa-github"
   link = "https://github.com/zo0o0ot/"
 
 [[params.social]]
   medium = "LinkedIn"
-  icon = "linkedin"
+  icon = "fab fa-linkedin"
   link = "https://www.linkedin.com/in/rosslarson/"
 
 [[params.social]]
+  medium = "Blogger"
+  icon = "fab fa-blogger-b"
+  link = "http://zootlinux.blogspot.com/"
+
+[[params.social]]
   medium = "Email"
-  icon = "envelope-o"
+  icon = "fas fa-envelope"
   link = "mailto:hello@rosslarson.com"
+
+
+# My ThatConference Speaker Profile would be nice.
+# https://www.thatconference.com/speakers/speaker/RossLarson
+# icon not in font-awesome, though.  https://www.thatconference.com/images/icons/favicon-72.png
