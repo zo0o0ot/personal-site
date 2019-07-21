@@ -37,10 +37,14 @@ theme = "aerial"
   link = "http://zootlinux.blogspot.com/"
 
 [[params.social]]
+  medium = "New blog"
+  icon = "fas fa-blog"
+  link = "https://ross-larson-blog.github.io/"
+
+[[params.social]]
   medium = "Email"
   icon = "fas fa-envelope"
   link = "mailto:hello@rosslarson.com"
-
 
 # My ThatConference Speaker Profile would be nice.
 # https://www.thatconference.com/speakers/speaker/RossLarson
